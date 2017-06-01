@@ -1,4 +1,4 @@
-# Write a Python program to reverse an array
+# Write a Python program to reverse an array using Numpy
 
 Sample Output:
 
