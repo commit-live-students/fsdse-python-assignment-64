@@ -1,4 +1,4 @@
+import numpy as np
 def solution(array):
-    """
-    Enter your code here
-    """
+    array = np.flip(array, axis = 0)
+    return array
