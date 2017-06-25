@@ -1,4 +1,3 @@
 def solution(array):
-    """
-    Enter your code here
-    """
+    arr = array[::-1]
+    return arr
