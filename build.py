@@ -1,4 +1,5 @@
+import numpy as np
+
 def solution(array):
-    """
-    Enter your code here
-    """
+    rev_array = array[::-1]
+    return rev_array
