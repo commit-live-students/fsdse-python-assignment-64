@@ -1,4 +1,4 @@
+import numpy as np
+
 def solution(array):
-    """
-    Enter your code here
-    """
+    return np.fliplr([array])[0]
