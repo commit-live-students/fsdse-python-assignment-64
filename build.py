@@ -1,4 +1,3 @@
 def solution(array):
-    """
-    Enter your code here
-    """
+    output = list(reversed(array))
+    return output
