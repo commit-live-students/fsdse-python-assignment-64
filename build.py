@@ -1,4 +1,5 @@
+import numpy as np
+
 def solution(array):
-    """
-    Enter your code here
-    """
+    a = np.array(array)
+    return a[ : :-1]
